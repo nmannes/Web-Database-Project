@@ -46,7 +46,7 @@ li.menu a, #about {
 li.menu a:hover {
     background-color: #111;
 }
-
+*{font-family:Cambria;}
 #s2{
 	background-color:#111;
 }
