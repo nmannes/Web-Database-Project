@@ -1,4 +1,4 @@
-#Final Web Project B
+# Final Web Project B
 As it stands now, our project lets users click around an extensive 
 menu and query between one and two variables and see the results of that query
 
