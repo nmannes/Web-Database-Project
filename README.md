@@ -6,7 +6,7 @@ Feature List:
   - Query one variable
   - Query two variables
   - Generate graphs based on different types of categorical or continuous data
-  - Extensive menu of variables to compare.
+  - Extensive menu of variables to compare
   - Graphs display plain-english variable meanings
   - Graphs are generated (or an appropriate error message is thrown) with all queries
   - Homepage explains how to use website
