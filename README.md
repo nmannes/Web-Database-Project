@@ -3,8 +3,8 @@ As it stands now, our project lets users click around an extensive
 menu and query between one and two variables and see the results of that query
 
 Feature List:
--Query one variable
--Query two variables
+  - Query one variable
+  - Query two variables
 -Generate graphs based on different types of categorical or continuous data
 -extensive menu of variables to compare.
 -graphs display plain-english variable meanings
