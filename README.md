@@ -5,14 +5,14 @@ menu and query between one and two variables and see the results of that query
 Feature List:
   - Query one variable
   - Query two variables
--Generate graphs based on different types of categorical or continuous data
--extensive menu of variables to compare.
--graphs display plain-english variable meanings
--graphs are generated (or an appropriate error message is thrown) with all queries
--Homepage explains how to use website
+  - Generate graphs based on different types of categorical or continuous data
+  - Extensive menu of variables to compare.
+  - Graphs display plain-english variable meanings
+  - Graphs are generated (or an appropriate error message is thrown) with all queries
+  - Homepage explains how to use website
 
 Our Data is called the General Social Survey (GSS) Cumulative Datafile 1972-2016
-The site has no licensing info, and the data is freely available to download.
+The site has no apparent licensing info. The data is freely available to download.
 http://gss.norc.org/Get-The-Data
 
 
