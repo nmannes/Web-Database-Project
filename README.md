@@ -1,6 +1,6 @@
 # Final Web Project B
 As it stands now, our project lets users click around an extensive 
-menu and query between one and two variables and see the results of that query
+menu. The user may query between one and two variables and see a graph of the results.
 
 Feature List:
   - Query one variable
@@ -11,9 +11,8 @@ Feature List:
   - Graphs are generated (or an appropriate error message is thrown) with all queries
   - Homepage explains how to use website
 
-Our Data is called the General Social Survey (GSS) Cumulative Datafile 1972-2016
+Our Data is called the General Social Survey (GSS) Cumulative Datafile 1972-2016.
 The site has no apparent licensing info. The data is freely available to download.
 http://gss.norc.org/Get-The-Data
 
-
-Our one feature that we would have liked to implement is supporting a third variable that would act as a control on the other two.
+The next feature that we would have implemented was supporting a third control variable in each query.
